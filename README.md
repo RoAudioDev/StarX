@@ -3,8 +3,8 @@
   ## INSTALLATION
   - 1. Click The Green Button Named Code
   - 2. Download As Zip
-    3. Extract 2 Times
-    4. Run StarX
-    5. Open Roblox
-    6. Complete Key Tasks
-    7. Enjoy Yourself.
+  - 3. Extract 2 Times
+ -   4. Run StarX
+ -   5. Open Roblox
+  -  6. Complete Key Tasks
+  -  7. Enjoy Yourself.
